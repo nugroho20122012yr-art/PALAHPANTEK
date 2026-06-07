@@ -1,0 +1,6 @@
+{
+  "name": "CID•AI",
+  "description": "Image to Crayon Style Converter with Infinite Usage",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
